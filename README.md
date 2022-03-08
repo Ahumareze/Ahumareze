@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ifeanyi Ahumareze
-- 👀 I’m interested in Fintech, Blockchain e.t.c
+- 👀 I’m interested in Reactjs, Fintech, Blockchain e.t.c
 - 🌱 I’m currently learning better software structure and architecture
 - 💞️ I’m looking to collaborate on new and cutting edge technologies
 - 📫 How to reach me ahumarezeifeanyi001@gmail.com
